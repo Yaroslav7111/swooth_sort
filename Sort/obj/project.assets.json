@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programirovanie\\Project C#\\Sort\\Sort\\Sort.csproj",
+      "projectUniqueName": "D:\\Programirovanie\\Project\\Sort\\Sort\\Sort.csproj",
       "projectName": "Sort",
-      "projectPath": "D:\\Programirovanie\\Project C#\\Sort\\Sort\\Sort.csproj",
+      "projectPath": "D:\\Programirovanie\\Project\\Sort\\Sort\\Sort.csproj",
       "packagesPath": "C:\\Users\\noteb\\.nuget\\packages\\",
-      "outputPath": "D:\\Programirovanie\\Project C#\\Sort\\Sort\\obj\\",
+      "outputPath": "D:\\Programirovanie\\Project\\Sort\\Sort\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\noteb\\AppData\\Roaming\\NuGet\\NuGet.Config",

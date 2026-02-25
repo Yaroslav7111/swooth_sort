@@ -25,7 +25,7 @@ class Program
     {
         List<int> sizes = new List<int>();
 
-        // 1️⃣ Build Leonardo trees
+        // 1️ Build Leonardo trees
         for (int i = 0; i < array.Length; i++)
         {
             sizes.Add(1); // create tree of size 1
@@ -47,7 +47,7 @@ class Program
             }
         }
 
-        // 2️⃣ Extract phase (heap-style)
+        // 2️ Extract phase (heap-style)
         for (int end = array.Length - 1; end > 0; end--)
         {
             Swap(array, 0, end);
