@@ -1,0 +1,14 @@
+D:\Programirovanie\Project C#\Sort\Sort\bin\Debug\net10.0\Sort.exe
+D:\Programirovanie\Project C#\Sort\Sort\bin\Debug\net10.0\Sort.deps.json
+D:\Programirovanie\Project C#\Sort\Sort\bin\Debug\net10.0\Sort.runtimeconfig.json
+D:\Programirovanie\Project C#\Sort\Sort\bin\Debug\net10.0\Sort.dll
+D:\Programirovanie\Project C#\Sort\Sort\bin\Debug\net10.0\Sort.pdb
+D:\Programirovanie\Project C#\Sort\Sort\obj\Debug\net10.0\Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programirovanie\Project C#\Sort\Sort\obj\Debug\net10.0\Sort.AssemblyInfoInputs.cache
+D:\Programirovanie\Project C#\Sort\Sort\obj\Debug\net10.0\Sort.AssemblyInfo.cs
+D:\Programirovanie\Project C#\Sort\Sort\obj\Debug\net10.0\Sort.csproj.CoreCompileInputs.cache
+D:\Programirovanie\Project C#\Sort\Sort\obj\Debug\net10.0\Sort.dll
+D:\Programirovanie\Project C#\Sort\Sort\obj\Debug\net10.0\refint\Sort.dll
+D:\Programirovanie\Project C#\Sort\Sort\obj\Debug\net10.0\Sort.pdb
+D:\Programirovanie\Project C#\Sort\Sort\obj\Debug\net10.0\Sort.genruntimeconfig.cache
+D:\Programirovanie\Project C#\Sort\Sort\obj\Debug\net10.0\ref\Sort.dll
