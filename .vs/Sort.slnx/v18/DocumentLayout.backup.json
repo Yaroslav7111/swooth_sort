@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Programirovanie\\Project C#\\Sort\\",
+  "WorkspaceRootPath": "D:\\Programirovanie\\Project\\Sort\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEA56CCA-DF5F-4491-8BC0-4FD3345C9FCB}|Sort\\Sort.csproj|d:\\programirovanie\\project c#\\sort\\sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEA56CCA-DF5F-4491-8BC0-4FD3345C9FCB}|Sort\\Sort.csproj|solutionrelative:sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E85F9DF9-FEBB-550F-9D6E-B7503481BF90}|Sort\\Sort.csproj|d:\\programirovanie\\project\\sort\\sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E85F9DF9-FEBB-550F-9D6E-B7503481BF90}|Sort\\Sort.csproj|solutionrelative:sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Programirovanie\\Project C#\\Sort\\Sort\\Program.cs",
+              "DocumentMoniker": "D:\\Programirovanie\\Project\\Sort\\Sort\\Program.cs",
               "RelativeDocumentMoniker": "Sort\\Program.cs",
-              "ToolTip": "D:\\Programirovanie\\Project C#\\Sort\\Sort\\Program.cs",
+              "ToolTip": "D:\\Programirovanie\\Project\\Sort\\Sort\\Program.cs",
               "RelativeToolTip": "Sort\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwFUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwDEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T17:08:31.256Z",
               "EditorCaption": ""
